@@ -9,50 +9,81 @@ sections:
     content:
       title: |
         DANCE
-      image:
-        filename: team.jpg
+    - block: slider
+      content:
+        slides:
+        - title: 👋 Welcome to the Dance Group
+          content: Take a look at what we're working on...
+          align: center
+          background:
+            image:
+              filename: team.jpg
+              filters:
+                brightness: 0.7
+            position: right
+            color: '#666'
+        - title: 👋 Welcome to the Dance Group
+          content: Take a look at what we're working on...
+          align: center
+          background:
+            image:
+              filename: team2.jpg
+              filters:
+                brightness: 0.7
+            position: right
+            color: '#666'
+        - title: 👋 Welcome to the Dance Group
+          content: Take a look at what we're working on...
+          align: center
+          background:
+            image:
+              filename: team3.jpg
+              filters:
+                brightness: 0.7
+            position: right
+            color: '#666'
+        - title: 👋 Welcome to the Dance Group
+          content: Take a look at what we're working on...
+          align: center
+          background:
+            image:
+              filename: team4.jpg
+              filters:
+                brightness: 0.7
+            position: right
+            color: '#666'
+        - title: 👋 Welcome to the Dance Group
+          content: Take a look at what we're working on...
+          align: center
+          background:
+            image:
+              filename: team5.jpg
+              filters:
+                brightness: 0.7
+            position: right
+            color: '#666'
+        - title: 👋 Welcome to the Dance Group
+          content: Take a look at what we're working on...
+          align: center
+          background:
+            image:
+              filename: team6.jpg
+              filters:
+                brightness: 0.7
+            position: right
+            color: '#666'
+      design:
+        # Slide height is automatic unless you force a specific height (e.g. '400px')
+        slide_height: ''
+        is_fullscreen: true
+        # Automatically transition through slides?
+        loop: true
+        # Duration of transition between slides (in ms)
+        interval: 2000
       text: |
         <br>
         (Data And Network CoordinatE) Group
   
-  - block: collection
-    content:
-      title: Latest Project
-      subtitle:
-      text:
-      count: 3
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: team.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
   
   - block: markdown
     content:

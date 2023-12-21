@@ -5,14 +5,6 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    content:
-      title: |
-        DANCE
-      text: |
-        <br>
-        (Data And Network CoordinatE) Group
-
   - block: slider
     content:
       slides:
@@ -76,15 +68,6 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-          
-  - block: markdown
-    content:
-      title:
-      subtitle: Want to know more ?
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
 ---
 
 # 

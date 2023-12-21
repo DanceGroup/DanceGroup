@@ -9,31 +9,70 @@ sections:
     content:
       title: |
         DANCE
-      image:
-        filename: team.jpg
+      slides:
+      - title: 👋 Welcome to the Dance Group
+        content: Take a look at what we're working on...
+        align: center
+        background:
+          image:
+            filename: team.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+      - title: 👋 Welcome to the Dance Group
+        content: Take a look at what we're working on...
+        align: center
+        background:
+          image:
+            filename: team2.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+      - title: 👋 Welcome to the Dance Group
+        content: Take a look at what we're working on...
+        align: center
+        background:
+          image:
+            filename: team3.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+      - title: 👋 Welcome to the Dance Group
+        content: Take a look at what we're working on...
+        align: center
+        background:
+          image:
+            filename: team4.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+      - title: 👋 Welcome to the Dance Group
+        content: Take a look at what we're working on...
+        align: center
+        background:
+          image:
+            filename: team5.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+      - title: 👋 Welcome to the Dance Group
+        content: Take a look at what we're working on...
+        align: center
+        background:
+          image:
+            filename: team6.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
       text: |
         <br>
         (Data And Network CoordinatE) Group
-
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: team.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
   
   - block: markdown
     content:

@@ -10,7 +10,7 @@ sections:
       title: |
         DANCE
       image:
-        filename: welcome.jpg
+        filename: team.jpg
       text: |
         <br>
         (Data And Network CoordinatE) Group
@@ -24,3 +24,5 @@ sections:
     design:
       columns: '1'
 ---
+
+# 

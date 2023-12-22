@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the Dance Group
+      - title:  Welcome to the Dance Group
         content: Take a look at what we're working on...
         align: center
         background:
@@ -18,7 +18,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: 👋 Welcome to the Dance Group
+      - title:  Welcome to the Dance Group
         content: Take a look at what we're working on...
         align: center
         background:
@@ -28,7 +28,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: 👋 Welcome to the Dance Group
+      - title:  Welcome to the Dance Group
         content: Take a look at what we're working on...
         align: center
         background:
@@ -38,7 +38,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: 👋 Welcome to the Dance Group
+      - title:  Welcome to the Dance Group
         content: Take a look at what we're working on...
         align: center
         background:
@@ -48,7 +48,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: 👋 Welcome to the Dance Group
+      - title:  Welcome to the Dance Group
         content: Take a look at what we're working on...
         align: center
         background:
@@ -58,7 +58,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: 👋 Welcome to the Dance Group
+      - title:  Welcome to the Dance Group
         content: Take a look at what we're working on...
         align: center
         background:
@@ -71,7 +71,7 @@ sections:
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
-      is_fullscreen: true
+      is_fullscreen: false
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)

@@ -10,7 +10,7 @@ sections:
       title: |
         DANCE
       slides:
-      - title: 👋 Welcome to the Dance Group
+      - title:  Welcome to the Dance Group
         content: Take a look at what we're working on...
         align: center
         background:
@@ -20,7 +20,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: 👋 Welcome to the Dance Group
+      - title:  Welcome to the Dance Group
         content: Take a look at what we're working on...
         align: center
         background:
@@ -30,7 +30,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: 👋 Welcome to the Dance Group
+      - title:  Welcome to the Dance Group
         content: Take a look at what we're working on...
         align: center
         background:
@@ -40,7 +40,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: 👋 Welcome to the Dance Group
+      - title:  Welcome to the Dance Group
         content: Take a look at what we're working on...
         align: center
         background:
@@ -50,7 +50,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: 👋 Welcome to the Dance Group
+      - title:  Welcome to the Dance Group
         content: Take a look at what we're working on...
         align: center
         background:
@@ -60,7 +60,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: 👋 Welcome to the Dance Group
+      - title:  Welcome to the Dance Group
         content: Take a look at what we're working on...
         align: center
         background:

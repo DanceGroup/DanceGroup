@@ -29,6 +29,8 @@ sections:
 
 **I'm lucky to work with the following students.**
 
+* Tianhan Liu (Mphil student since 2024)
+* Guoze Li (Mphil student since 2024)
 * Wenlingxiao Li (Mphil student since 2023)
 * Ruihan Zhang (Mphil student since 2023)
 * Chenyue Zheng (Mphil student since 2023)

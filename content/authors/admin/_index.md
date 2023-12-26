@@ -61,12 +61,13 @@ user_groups:
 
 **Welcome!**
 
-I am an Associate Professor in the [School of Computer Science](https://scs.bupt.edu.cn/) (National Pilot Software Engineering School) at Beijing University of Posts and Telecommunications ([BUPT](https://www.bupt.edu.cn/)). I am the Director of [Network and  Software Communication Center](https://scs.bupt.edu.cn/info/1315/2653.htm), CS, BUPT, the Director of Academic Committee in Joint Laboratory of BUPT and [Chuangcache](https://www.chuangcache.com/), and I am also a Committee Member of China Computer Federation Block Chain Technical Committee ([CCF TCBC](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCBC/))  and Internet Technical Committee ([CCF TCI](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCI/)), a senior member in China Institute of Communications ([CIC](https://www.china-cic.cn/)). I am a Visiting Scholar in [Cambridge University](https://www.cam.ac.uk/) since Sept. 2021 (with [Prof. Jon Crowcroft](https://www.cl.cam.ac.uk/~jac22/)), and a Research Associate in Wolfson College, Cambridge University.
+I am an Associate Professor and Ph. D. supervisor in the [School of Computer Science](https://scs.bupt.edu.cn/) (National Pilot Software Engineering School) at Beijing University of Posts and Telecommunications ([BUPT](https://www.bupt.edu.cn/)). I am the Director of [Network and  Software Communication Center](https://scs.bupt.edu.cn/info/1315/2653.htm), CS, BUPT, the Director of Academic Committee in Joint Laboratory of BUPT and [Chuangcache](https://www.chuangcache.com/), and I am also a Committee Member of China Computer Federation Block Chain Technical Committee ([CCF TCBC](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCBC/))  and Internet Technical Committee ([CCF TCI](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCI/)), a senior member in China Institute of Communications ([CIC](https://www.china-cic.cn/)). I am a Visiting Scholar in [Cambridge University](https://www.cam.ac.uk/) since Sept. 2021 (with [Prof. Jon Crowcroft](https://www.cl.cam.ac.uk/~jac22/)), and a Research Associate in Wolfson College, Cambridge University.
 
 Previously, I was a Postdoc in the [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (with[ Prof. Kai Chen](https://cse.hkust.edu.hk/~kaichen/)) and then a Researcher in Hong Kong Huawei 2012 Theory Lab. I hold a Ph.D. degree (in [CS](https://www.cs.tsinghua.edu.cn/)) from [Tsinghua University](https://www.tsinghua.edu.cn/) ([Advisor: Prof.Ke Xu](http://www.thucsnet.org/xuke.html)) and a B.S. degree (also in [CS](http://ccst.jlu.edu.cn/)) from [Jilin University](https://www.jlu.edu.cn/). 
 
 My research focuses on Data-driven Network, NetAI, Large-scale Datacenter Network, Cloud and Edge Computing. ORCID: 0000-0002-013508915
 
+I'm leading the DANCE (Data And Network CoordinatE) Group, and looking for self-motivated students to work with me at BUPT. Please feel free to drop me an email with your CV.
 
 ## Teaching
 
@@ -100,32 +101,32 @@ My research focuses on Data-driven Network, NetAI, Large-scale Datacenter Networ
 
 ● Conference Technical Program Committee
 
-​    **APNet** - Asia-Pacific Workshop on Networking. [2023]([https://conferences.sigcomm.org/events/apnet2023/index.html)) (Publicity Chair)
-​    **ICDCS** -  IEEE Internationale Conference on Distributed Computing Systems. [2023](https://icdcs2023.icdcs.org/)) (TPC Member)
-​    **ICC** -  IEEE International Conference on Communications. [2023](https://icc2023.ieee-icc.org/authors/call-symposium-papers) (TPC for SAC BD)
-​    **FedEdge** - ACM Workshop on Data Privacy and Federated Learning Technologies for Mobile Edge Network, [MobiCom'2022](https://fededge2022.github.io/index.html)) **(CCF A), (TPC Chair and General Chair) **
-​    **GlobeCom** - IEEE Global Communications Conference , [2021](https://globecom2021.ieee-globecom.org/)) (TPC for SAC BD) , [2022](https://globecom2021.ieee-globecom.org) (TPC for SAC BD)
-​    **HPCC** - IEEE International Conference on High Performance Computing and Communications, [2020](http://cse.stfx.ca/~hpcc/2020/index.html) (PC Member), [2022](http://cse.stfx.ca/~hpcc/2022/index.html)(TPC Member)
-​    **ICWS** - International Conference on Web Services, [2020](http://www.icws.org/2020/index.html) (Special Track Chair), [2021](http://www.icws.org/2021/index.html) (**Program Chair**), [2022](http://www.icws.org/2022/index.html) (**Program Chair**)
-​    **IWQoS** - IEEE/ACM International Symposium on Quality of Service, [2019](https://iwqos2019.ieee-iwqos.org/) (TPC), [2021](https://iwqos2021.ieee-iwqos.org/) (PC Member), [2022](https://iwqos2022.ieee-iwqos.org/) (TPC Member) 
-​    **AIMS**- International Conference on AI and Mobile Services, [2018](http://www.ai1000.org/2018/organization.html) (PC Member), [2019](http://www.ai1000.org/2019/organization.html) (PC Member), [2020](http://www.ai1000.org/2020/organization.html) (TPC), [2021](http://www.ai1000.org/2021/organization.html) (TPC), [2022](http://www.ai1000.org/2022/organization.html) (TPC)
+​* **APNet** - Asia-Pacific Workshop on Networking. [2023]([https://conferences.sigcomm.org/events/apnet2023/index.html)) (Publicity Chair)
+​* **ICDCS** -  IEEE Internationale Conference on Distributed Computing Systems. [2023](https://icdcs2023.icdcs.org/)) (TPC Member)
+​* **ICC** -  IEEE International Conference on Communications. [2023](https://icc2023.ieee-icc.org/authors/call-symposium-papers) (TPC for SAC BD)
+​* **FedEdge** - ACM Workshop on Data Privacy and Federated Learning Technologies for Mobile Edge Network, [MobiCom'2022](https://fededge2022.github.io/index.html)) **(CCF A), (TPC Chair and General Chair) **
+​* **GlobeCom** - IEEE Global Communications Conference , [2021](https://globecom2021.ieee-globecom.org/)) (TPC for SAC BD) , [2022](https://globecom2021.ieee-globecom.org) (TPC for SAC BD)
+​* **HPCC** - IEEE International Conference on High Performance Computing and Communications, [2020](http://cse.stfx.ca/~hpcc/2020/index.html) (PC Member), [2022](http://cse.stfx.ca/~hpcc/2022/index.html)(TPC Member)
+​* **ICWS** - International Conference on Web Services, [2020](http://www.icws.org/2020/index.html) (Special Track Chair), [2021](http://www.icws.org/2021/index.html) (**Program Chair**), [2022](http://www.icws.org/2022/index.html) (**Program Chair**)
+​* **IWQoS** - IEEE/ACM International Symposium on Quality of Service, [2019](https://iwqos2019.ieee-iwqos.org/) (TPC), [2021](https://iwqos2021.ieee-iwqos.org/) (PC Member), [2022](https://iwqos2022.ieee-iwqos.org/) (TPC Member) 
+​* **AIMS**- International Conference on AI and Mobile Services, [2018](http://www.ai1000.org/2018/organization.html) (PC Member), [2019](http://www.ai1000.org/2019/organization.html) (PC Member), [2020](http://www.ai1000.org/2020/organization.html) (TPC), [2021](http://www.ai1000.org/2021/organization.html) (TPC), [2022](http://www.ai1000.org/2022/organization.html) (TPC)
 
 ● Journal Editorship
-    [IEEE Transaction on Industrial Informatics](https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics) (TII)
-    [IEEE Internet of Things Journal](https://ieee-iotj.org/) (**IoTJ**), 2021 (Invited Associate Editor)
-    Journal of Software
-    Frontiers of Computer Science, 2019 (Guest Reviewer).
-    Chinese Journal of Computers, 2019 (Guest Reviewer).
-    [IEEE Network](https://www.comsoc.org/publications/magazines/ieee-network), 2019 (Guest Reviewer).
-    International Journal of Machine Learning and Cybernetics (IJMLC), 2018 (Guest Reviewer)
-    IEEE Transaction on Cloud Computing (TCC), 2018 (Guest Reviewer)
-    IEEE Transaction on Network and Service Computing (TNSC), 2018 (Guest Reviewer)
-    IEEE Transaction on Network and Service Management (TNSM), 2018 (Guest Reviewer), 2021 (Guest Reviewer)
+* [IEEE Transaction on Industrial Informatics](https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics) (TII)
+* [IEEE Internet of Things Journal](https://ieee-iotj.org/) (**IoTJ**), 2021 (Invited Associate Editor)
+* Journal of Software
+* Frontiers of Computer Science, 2019 (Guest Reviewer).
+* Chinese Journal of Computers, 2019 (Guest Reviewer).
+* [IEEE Network](https://www.comsoc.org/publications/magazines/ieee-network), 2019 (Guest Reviewer).
+* International Journal of Machine Learning and Cybernetics (IJMLC), 2018 (Guest Reviewer)
+* IEEE Transaction on Cloud Computing (TCC), 2018 (Guest Reviewer)
+* IEEE Transaction on Network and Service Computing (TNSC), 2018 (Guest Reviewer)
+* IEEE Transaction on Network and Service Management (TNSM), 2018 (Guest Reviewer), 2021 (Guest Reviewer)
 
 ● Social Service
-    Committee Member, [CCF Youth Committee](https://www.ccf.org.cn/gzwyh/qngzwyh/)
-    Committee Member, [CCF TCI](https://www.ccf.org.cn/tc/zwmd/hlw/)
-    Senior Member, [China Institute of Communications](https://www.china-cic.cn/), CIC
+* Committee Member, [CCF Youth Committee](https://www.ccf.org.cn/gzwyh/qngzwyh/)
+* Committee Member, [CCF TCI](https://www.ccf.org.cn/tc/zwmd/hlw/)
+* Senior Member, [China Institute of Communications](https://www.china-cic.cn/), CIC
 
 <br/>
 

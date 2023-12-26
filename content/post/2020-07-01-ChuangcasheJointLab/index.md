@@ -1,11 +1,11 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
+title: BUPT-Chuangcache Joint Laboratory
 date: 2018-12-01
 image:
   focal_point: 'top'
 ---
 
-**BUPT-Chuangcache Joint Laboratory **
+**BUPT-Chuangcache Joint Laboratory**
 
 “北邮--创世云” 联合实验室（学术委员会主任）2020.07 - 2023.06
 

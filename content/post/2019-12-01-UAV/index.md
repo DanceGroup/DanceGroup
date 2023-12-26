@@ -1,5 +1,5 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
+title: Research on the theory and key technology of UAV assisted intelligent emergency edge network
 date: 2018-12-01
 image:
   focal_point: 'top'

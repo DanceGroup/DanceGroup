@@ -1,5 +1,5 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
+title: Serverless Computing in Storage-intensive Network
 date: 2018-05-01
 image:
   focal_point: 'top'

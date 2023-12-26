@@ -1,11 +1,11 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
+title: Research and Application of Network Routing Strategy in Large-scale Distributed Training Systems
 date: 2018-12-01
 image:
   focal_point: 'top'
 ---
 
-**Research and Application of Network Routing Strategy in Large-scale Distributed Training Systems **
+**Research and Application of Network Routing Strategy in Large-scale Distributed Training Systems**
 
 Research Project from Bytedance **(PI)** 
 

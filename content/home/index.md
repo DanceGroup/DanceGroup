@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: Welcome to the Dance Group
-        content: Take a look at what we're working on...
+        content: 
         align: center
         background:
           image:
@@ -19,7 +19,7 @@ sections:
           position: right
           color: '#666'
       - title: Welcome to the Dance Group
-        content: Take a look at what we're working on...
+        content: 
         align: center
         background:
           image:
@@ -29,7 +29,7 @@ sections:
           position: right
           color: '#666'
       - title: Welcome to the Dance Group
-        content: Take a look at what we're working on...
+        content: 
         align: center
         background:
           image:
@@ -39,7 +39,7 @@ sections:
           position: right
           color: '#666'
       - title: Welcome to the Dance Group
-        content: Take a look at what we're working on...
+        content: 
         align: center
         background:
           image:
@@ -49,7 +49,7 @@ sections:
           position: right
           color: '#666'
       - title: Welcome to the Dance Group
-        content: Take a look at what we're working on...
+        content: 
         align: center
         background:
           image:
@@ -59,7 +59,7 @@ sections:
           position: right
           color: '#666'
       - title: Welcome to the Dance Group
-        content: Take a look at what we're working on...
+        content: 
         align: center
         background:
           image:

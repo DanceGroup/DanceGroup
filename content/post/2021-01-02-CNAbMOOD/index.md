@@ -1,5 +1,5 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
+title: Research on Collaborative Nest-chain Architecture between Massive Off-chain Data and On-chain Data
 date: 2018-12-01
 image:
   focal_point: 'top'

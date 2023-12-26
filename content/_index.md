@@ -24,13 +24,3 @@ sections:
     design:
       columns: '1'
 ---
-
-Previously, I was a Postdoc in the [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (with[ Prof. Kai Chen](https://cse.hkust.edu.hk/~kaichen/)) and then a Researcher in Hong Kong Huawei 2012 Theory Lab. I hold a Ph.D. degree (in [CS](https://www.cs.tsinghua.edu.cn/)) from [Tsinghua University](https://www.tsinghua.edu.cn/) ([Advisor: Prof.Ke Xu](http://www.thucsnet.org/xuke.html)) and a B.S. degree (also in [CS](http://ccst.jlu.edu.cn/)) from [Jilin University](https://www.jlu.edu.cn/). 
-
-My research focuses on Data-driven Network, NetAI, Large-scale Datacenter Network, Cloud and Edge Computing. ORCID: 0000-0002-013508915
-
-
-
-Email: yczhang AT bupt.edu.cn  /  zhangyc14 AT tsinghua.org.cn /  yz774 AT cl.cam.ac.uk
-Address: Zonghe Building, BUPT, Haidian District, Beijing, China. (current)
-William Gates Building, J J Thomson Avenue, Cambridge, CB3 0FD

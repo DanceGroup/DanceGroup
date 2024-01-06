@@ -21,6 +21,8 @@ banner:
 
 4. **Yuchao Zhang**, Liangjie Zhang. [Web Services](https://link.springer.com/book/10.1007/978-3-031-23579-5) - 2022, Springer. ISBN: 978-3-031-23579-5
 
+5. **Yuchao Zhang**, Liangjie Zhang. [Web Services](https://link.springer.com/book/10.1007/978-3-031-44836-2) - 2023, eBook ISBN: 978-3-031-44836-2 ,Print ISBN: 978-3-031-44835-5
+
 <br/>
 
 ## Publications

@@ -31,7 +31,7 @@ banner:
 <br/>
 
 ### 2023
-* [57] Jiachen Li, **Yuchao Zhang#**, Yiping Li, Gong Xiangyang, Wendong Wang. HybridCom: Improve Federated Learning Efficiency on Unstable Data. IEEE International Conference on Communications. 9-13 June 2024. Denver, CO, USA.
+* [57] <u>Jiachen Li</u>, **Yuchao Zhang#**, Yiping Li, Gong Xiangyang, Wendong Wang. HybridCom: Improve Federated Learning Efficiency on Unstable Data. IEEE International Conference on Communications. 9-13 June 2024. Denver, CO, USA.
 * [56] **Yuchao Zhang**, <u>Xiaotian Wang</u>, Xiaofeng He, Ning Zhang, Zibin Zheng, Ke Xu. Galaxy: A Scalable BFT and Privacy-Preserving Pub/Sub IoT Data Sharing Framework Based on Blockchain. IEEE Internet of Things Journal. (**JCR Q1**)
 * [55] <u>Jiachen Li</u>, **Yuchao Zhang#**, Yiping Li, Xiangyang Gong, Wendong Wang. Gradient Calibration for Federated Learning on Non-I.I.D. Data. The 29th Annual International Conference On  Mobile Computing and Networking (ACM **MobiCom**) 2nd FedEdge Workshop. Oct. 2-6, Madrid, Spain.
 * [54] <u>Xintong Lu</u>, **Yuchao Zhang#**, <u>Huan Zou</u>, Yilei Liang, Jon Crowcroft. FedCOM: Efficient Personalized Federated Learning by Finding Your Best Peers. The 29th Annual International Conference On  Mobile Computing and Networking (ACM **MobiCom**) 2nd FedEdge Workshop. Oct. 2-6, Madrid, Spain.
